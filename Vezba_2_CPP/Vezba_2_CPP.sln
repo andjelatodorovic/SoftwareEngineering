@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vezba_2_CPP", "Vezba_2_CPP\Vezba_2_CPP.vcxproj", "{ABDE9E15-DD6B-4F87-903D-C5F015722308}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kol_I_2013_2014", "Kol_I_2013_2014\Kol_I_2013_2014.vcxproj", "{30C30760-6577-4842-AA5C-7E197FE9D6D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kol_I_2013_2014_Pop", "Kol_I_2013_2014_Pop\Kol_I_2013_2014_Pop.vcxproj", "{608BD17D-5F7F-4456-B005-1ABB5F586FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDE9E15-DD6B-4F87-903D-C5F015722308}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABDE9E15-DD6B-4F87-903D-C5F015722308}.Debug|Win32.Build.0 = Debug|Win32
+		{ABDE9E15-DD6B-4F87-903D-C5F015722308}.Release|Win32.ActiveCfg = Release|Win32
+		{ABDE9E15-DD6B-4F87-903D-C5F015722308}.Release|Win32.Build.0 = Release|Win32
+		{30C30760-6577-4842-AA5C-7E197FE9D6D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30C30760-6577-4842-AA5C-7E197FE9D6D3}.Debug|Win32.Build.0 = Debug|Win32
+		{30C30760-6577-4842-AA5C-7E197FE9D6D3}.Release|Win32.ActiveCfg = Release|Win32
+		{30C30760-6577-4842-AA5C-7E197FE9D6D3}.Release|Win32.Build.0 = Release|Win32
+		{608BD17D-5F7F-4456-B005-1ABB5F586FDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{608BD17D-5F7F-4456-B005-1ABB5F586FDA}.Debug|Win32.Build.0 = Debug|Win32
+		{608BD17D-5F7F-4456-B005-1ABB5F586FDA}.Release|Win32.ActiveCfg = Release|Win32
+		{608BD17D-5F7F-4456-B005-1ABB5F586FDA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89358356-51B8-490E-B9DC-1FF8C0641EA2}
+	EndGlobalSection
+EndGlobal
